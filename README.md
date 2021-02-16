@@ -1,6 +1,4 @@
 # Horiseon
-
-# Code Refactor Starter Code
 Horiseon
 
 Purpose:
